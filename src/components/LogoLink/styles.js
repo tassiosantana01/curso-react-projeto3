@@ -8,7 +8,7 @@ export const Container = styled.a`
     color: inherit;
 
     > img {
-      max-height: 10rem;
+      max-height: 20rem;
     }
   `}
 `;

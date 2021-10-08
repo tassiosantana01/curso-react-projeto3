@@ -4,7 +4,7 @@ export default {
   title: 'LogoLink',
   component: LogoLink,
   args: {
-    text: 'LogoLink',
+    text: 'TJKibes',
     srcImg: 'assets/images/logo.jpg',
     link: 'http://localhost',
   },
