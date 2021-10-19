@@ -1,0 +1,604 @@
+[
+  {
+    "localizations": [
+
+    ],
+    "_id": "6144d21836263b01a86bd715",
+    "title": "tj-kibes",
+    "slug": "TJ Kibes",
+    "footer_text": "<P><a>Feito com <3 por Tássio Santana</a></p>",
+    "locale": "en",
+    "sections": [
+      {
+        "__component": "section.section-two-columns",
+        "_id": "6144e3d936263b01a86bd72d",
+        "title": "January brings us Firefox 85",
+        "description": "To wrap up January, we are proud to bring you the release of Firefox 85. In this version we are bringing you support for the :focus-visible pseudo-class in CSS and associated devtools, and the complete removal of Flash support from Firefox.",
+        "metadata": {
+          "background": true,
+          "_id": "6144e3da36263b01a86bd734",
+          "section_id": "home",
+          "name": "Home",
+          "__v": 0,
+          "id": "6144e3da36263b01a86bd734"
+        },
+        "__v": 1,
+        "image": {
+          "_id": "6144d65636263b01a86bd725",
+          "name": "javascript.svg",
+          "alternativeText": "Desenho de pessoas segurando logos do CSS JS e HTML",
+          "caption": "Desenho de pessoas segurando logos do CSS JS e HTML",
+          "hash": "javascript_21804b77b9",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 30.31,
+          "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631901268/javascript_21804b77b9.svg",
+          "provider_metadata": {
+            "public_id": "javascript_21804b77b9",
+            "resource_type": "image"
+          },
+          "provider": "cloudinary",
+          "width": 1030,
+          "height": 730,
+          "related": [
+            "6144e3d936263b01a86bd72d",
+            "6144e3d936263b01a86bd733"
+          ],
+          "createdAt": "2021-09-17T17:54:30.254Z",
+          "updatedAt": "2021-09-17T18:52:11.441Z",
+          "__v": 0,
+          "id": "6144d65636263b01a86bd725"
+        },
+        "id": "6144e3d936263b01a86bd72d"
+      },
+      {
+        "__component": "section.section-content",
+        "_id": "6144e3d936263b01a86bd72e",
+        "title": "news coverage and some surprises",
+        "content": "<p>The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p>We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><p>We’ll then explain how DRM/EME works on the new platform, talk about our experience with macOS Big Sur, and discuss various updater problems we had to deal with. We’ll conclude with the release and an overview of various other improvements that are in the pipeline.</p>",
+        "metadata": {
+          "background": false,
+          "_id": "6144e3da36263b01a86bd735",
+          "name": "Intro",
+          "section_id": "intro",
+          "__v": 0,
+          "id": "6144e3da36263b01a86bd735"
+        },
+        "__v": 1,
+        "id": "6144e3d936263b01a86bd72e"
+      },
+      {
+        "__component": "section.section-grid",
+        "_id": "6144e3d936263b01a86bd72f",
+        "title": "My Grid",
+        "description": "Atque doloribus nobis laudantium esse ut, non commodi maxime",
+        "text_grid": [
+          {
+            "_id": "6144e3da36263b01a86bd736",
+            "title": "Teste 1",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd736"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd737",
+            "title": "Teste 2",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd737"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd738",
+            "title": "Teste 3",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd738"
+          }
+        ],
+        "image_grid": [
+
+        ],
+        "metadata": {
+          "background": true,
+          "_id": "6144e3db36263b01a86bd754",
+          "name": "grid-one",
+          "section_id": "grid-one",
+          "__v": 0,
+          "id": "6144e3db36263b01a86bd754"
+        },
+        "__v": 2,
+        "id": "6144e3d936263b01a86bd72f"
+      },
+      {
+        "__component": "section.section-grid",
+        "_id": "6144e3d936263b01a86bd730",
+        "title": "Gallery",
+        "description": "maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+        "text_grid": [
+
+        ],
+        "image_grid": [
+          {
+            "_id": "6144e3da36263b01a86bd739",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd72c",
+              "name": "https://images.unsplash.com/photo-1593545203647-85aad8da3601?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0Mzk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Uma imagem de alguma cidade",
+              "caption": "",
+              "hash": "photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 24.52,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1593545203647-85aad8da3601?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0Mzk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.14,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1593545203647_85aad8da3601_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mzk_and_ixlib_rb_1_2_01ad966695",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd739"
+              ],
+              "createdAt": "2021-09-17T18:34:28.399Z",
+              "updatedAt": "2021-09-17T18:52:10.688Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd72c"
+            },
+            "id": "6144e3da36263b01a86bd739"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd73a",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd72b",
+              "name": "https://images.unsplash.com/photo-1596918795325-712bfbaead11?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDMyNjc&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Um vale com cachoeira",
+              "caption": "",
+              "hash": "photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 18.89,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1596918795325-712bfbaead11?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDMyNjc&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.66,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1596918795325_712bfbaead11_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_My_Njc_and_ixlib_rb_1_2_e3b7ce8cb4",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd73a"
+              ],
+              "createdAt": "2021-09-17T18:34:28.259Z",
+              "updatedAt": "2021-09-17T18:52:10.704Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd72b"
+            },
+            "id": "6144e3da36263b01a86bd73a"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd73b",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd72a",
+              "name": "https://images.unsplash.com/photo-1606685592997-865a467721f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MTA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Uma paisagem do mar",
+              "caption": "",
+              "hash": "photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 16.56,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1606685592997-865a467721f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MTA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.18,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1606685592997_865a467721f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_MTA_and_ixlib_rb_1_2_f1a700790d",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd73b"
+              ],
+              "createdAt": "2021-09-17T18:34:28.253Z",
+              "updatedAt": "2021-09-17T18:52:10.707Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd72a"
+            },
+            "id": "6144e3da36263b01a86bd73b"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd73c",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd729",
+              "name": "https://images.unsplash.com/photo-1563218930-d5f4f022936c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDMzODU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Uma mulher loira",
+              "caption": "",
+              "hash": "photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 24.71,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1563218930-d5f4f022936c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDMzODU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.6,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1563218930_d5f4f022936c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MD_Mz_ODU_and_ixlib_rb_1_2_3ef025862a",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd73c"
+              ],
+              "createdAt": "2021-09-17T18:34:28.205Z",
+              "updatedAt": "2021-09-17T18:52:10.718Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd729"
+            },
+            "id": "6144e3da36263b01a86bd73c"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd73d",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd728",
+              "name": "https://images.unsplash.com/photo-1612707894845-af2d2fe7b7f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MzE&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Um conjunto de maquinas fotograficas",
+              "caption": "",
+              "hash": "photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 26.21,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1612707894845-af2d2fe7b7f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MzE&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.33,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1612707894845_af2d2fe7b7f4_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_E_and_ixlib_rb_1_2_7398114a1a",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd73d"
+              ],
+              "createdAt": "2021-09-17T18:34:28.187Z",
+              "updatedAt": "2021-09-17T18:52:10.747Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd728"
+            },
+            "id": "6144e3da36263b01a86bd73d"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd73e",
+            "__v": 0,
+            "image": {
+              "_id": "6144dfb436263b01a86bd727",
+              "name": "https://images.unsplash.com/photo-1563456162378-f3b6b200289c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MzU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "alternativeText": "Uma paisagem de roda de carro esportiva",
+              "caption": "",
+              "hash": "photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07",
+              "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+              "mime": "image/jpeg",
+              "size": 21.56,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903666/photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07.jpg",
+              "provider_metadata": {
+                "public_id": "photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_https://images.unsplash.com/photo-1563456162378-f3b6b200289c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cnx8fHx8fDE2MzE5MDM0MzU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "hash": "thumbnail_photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07",
+                  "ext": ".1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=360",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 5.7,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631903667/thumbnail_photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_photo_1563456162378_f3b6b200289c_crop_entropy_and_cs_tinysrgb_and_fit_crop_and_fm_jpg_and_h_360_and_ixid_Mnwxf_DB_8_M_Xxy_YW_5kb218_M_Hx8cnx8f_Hx8f_DE_2_Mz_E5_MDM_0_Mz_U_and_ixlib_rb_1_2_87935aff07",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": [
+                "6144e3da36263b01a86bd73e"
+              ],
+              "createdAt": "2021-09-17T18:34:28.106Z",
+              "updatedAt": "2021-09-17T18:52:10.750Z",
+              "__v": 0,
+              "id": "6144dfb436263b01a86bd727"
+            },
+            "id": "6144e3da36263b01a86bd73e"
+          }
+        ],
+        "metadata": {
+          "background": false,
+          "_id": "6144e3db36263b01a86bd75f",
+          "name": "gallery",
+          "section_id": "gallery",
+          "__v": 0,
+          "id": "6144e3db36263b01a86bd75f"
+        },
+        "__v": 2,
+        "id": "6144e3d936263b01a86bd730"
+      },
+      {
+        "__component": "section.section-grid",
+        "_id": "6144e3d936263b01a86bd731",
+        "title": "Outra grid",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.\n",
+        "text_grid": [
+          {
+            "_id": "6144e3da36263b01a86bd741",
+            "title": "Teste 1 ",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd741"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd742",
+            "title": "Teste 2",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd742"
+          },
+          {
+            "_id": "6144e3da36263b01a86bd743",
+            "title": "Teste 3",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
+            "__v": 0,
+            "id": "6144e3da36263b01a86bd743"
+          }
+        ],
+        "image_grid": [
+
+        ],
+        "metadata": {
+          "background": true,
+          "_id": "6144e3db36263b01a86bd755",
+          "name": "grid-two",
+          "section_id": "grid-two",
+          "__v": 0,
+          "id": "6144e3db36263b01a86bd755"
+        },
+        "__v": 2,
+        "id": "6144e3d936263b01a86bd731"
+      },
+      {
+        "__component": "section.section-content",
+        "_id": "6144e3d936263b01a86bd732",
+        "title": "pricing",
+        "content": "<p>The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p>We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><figure class=\"table\"><table><thead><tr><th>Title 1</th><th>Title 2</th><th>Title 3</th><th>Title 4</th><th>Title 5</th></tr></thead><tbody><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Testando</td></tr></tbody></table></figure>",
+        "metadata": {
+          "background": false,
+          "_id": "6144e3da36263b01a86bd73f",
+          "name": "pricing",
+          "section_id": "pricing",
+          "__v": 0,
+          "id": "6144e3da36263b01a86bd73f"
+        },
+        "__v": 1,
+        "id": "6144e3d936263b01a86bd732"
+      },
+      {
+        "__component": "section.section-two-columns",
+        "_id": "6144e3d936263b01a86bd733",
+        "title": "January brings us Firefox 85",
+        "description": "To wrap up January, we are proud to bring you the release of Firefox 85. In this version we are bringing you support for the :focus-visible pseudo-class in CSS and associated devtools, and the complete removal of Flash support from Firefox.",
+        "metadata": {
+          "background": true,
+          "_id": "6144e3da36263b01a86bd740",
+          "name": "contact",
+          "section_id": "contact",
+          "__v": 0,
+          "id": "6144e3da36263b01a86bd740"
+        },
+        "__v": 1,
+        "image": {
+          "_id": "6144d65636263b01a86bd725",
+          "name": "javascript.svg",
+          "alternativeText": "Desenho de pessoas segurando logos do CSS JS e HTML",
+          "caption": "Desenho de pessoas segurando logos do CSS JS e HTML",
+          "hash": "javascript_21804b77b9",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 30.31,
+          "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631901268/javascript_21804b77b9.svg",
+          "provider_metadata": {
+            "public_id": "javascript_21804b77b9",
+            "resource_type": "image"
+          },
+          "provider": "cloudinary",
+          "width": 1030,
+          "height": 730,
+          "related": [
+            "6144e3d936263b01a86bd72d",
+            "6144e3d936263b01a86bd733"
+          ],
+          "createdAt": "2021-09-17T17:54:30.254Z",
+          "updatedAt": "2021-09-17T18:52:11.441Z",
+          "__v": 0,
+          "id": "6144d65636263b01a86bd725"
+        },
+        "id": "6144e3d936263b01a86bd733"
+      }
+    ],
+    "menu": {
+      "open_in_new_tab": false,
+      "_id": "6144d21936263b01a86bd716",
+      "logo_text": "TJ Kibes",
+      "logo_link": "#home",
+      "menu": [
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd717",
+          "link_text": "intro",
+          "url": "#intro",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd717"
+        },
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd718",
+          "url": "#grid-one",
+          "link_text": "grid-one",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd718"
+        },
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd719",
+          "url": "#gallery",
+          "link_text": "gallery",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd719"
+        },
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd71a",
+          "url": "#grid-two",
+          "link_text": "grid-two",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd71a"
+        },
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd71b",
+          "url": "#pricing",
+          "link_text": "pricing",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd71b"
+        },
+        {
+          "open_in_new_tab": false,
+          "_id": "6144d21936263b01a86bd71c",
+          "url": "#contact",
+          "link_text": "contact",
+          "__v": 0,
+          "id": "6144d21936263b01a86bd71c"
+        }
+      ],
+      "__v": 1,
+      "logo": {
+        "_id": "6144da6e36263b01a86bd726",
+        "name": "logo.svg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "logo_b1f5dff4d0",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 2.51,
+        "url": "https://res.cloudinary.com/projeto-react/image/upload/v1631902316/logo_b1f5dff4d0.svg",
+        "provider_metadata": {
+          "public_id": "logo_b1f5dff4d0",
+          "resource_type": "image"
+        },
+        "provider": "cloudinary",
+        "width": 47,
+        "height": 9,
+        "related": [
+          "6144d21936263b01a86bd716"
+        ],
+        "createdAt": "2021-09-17T18:11:58.334Z",
+        "updatedAt": "2021-09-17T18:52:14.374Z",
+        "__v": 0,
+        "id": "6144da6e36263b01a86bd726"
+      },
+      "id": "6144d21936263b01a86bd716"
+    },
+    "createdAt": "2021-09-17T17:36:24.885Z",
+    "updatedAt": "2021-09-17T18:52:15.772Z",
+    "__v": 1,
+    "id": "6144d21836263b01a86bd715"
+  }
+]
