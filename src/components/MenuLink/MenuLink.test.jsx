@@ -37,14 +37,14 @@ it('should render open in a new tab', () => {
       text-decoration: none;
       font-size: 1.6rem;
       padding: 1.6rem;
-      color: #ff6347;
+      color: #cd853f;
       position: relative;
     }
 
     .c0::after {
       content: '';
       position: absolute;
-      bottom: 0;
+      bottom: 0.78rem;
       left: 50%;
       width: 0;
       height: 0.2rem;
