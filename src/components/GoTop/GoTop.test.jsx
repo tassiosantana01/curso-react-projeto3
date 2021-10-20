@@ -4,7 +4,7 @@ import { GoTop } from '.';
 
 describe('<GoTop />', () => {
   it('should render a Va para o topo button', () => {
-    const { container } = renderTheme(<GoTop />);
+    const { container } = renderTheme(GoTop);
     expect(
       screen.getByRole('link', { name: 'Va para o topo' }),
     ).toBeInTheDocument();
